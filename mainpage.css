@@ -1,0 +1,42 @@
+.body
+    {
+        background-image: url(../images/logo.png);
+    }
+
+.headline 
+    {
+        display: flex;
+        font-size: 50px;
+        justify-content: center;
+        align-items: center;
+        padding-top: 30px;
+        font-weight: bold;
+        color: rgb(71, 6, 131);
+        /*  background-color: aqua;*/
+
+    }
+
+.mainimage
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10px;
+    }
+
+.text1
+    {
+        display: grid;
+        place-items: center;
+        font-size: 30px;
+
+    }
+
+.content1
+    {
+        margin-bottom: 30px;
+    }
+.miniheadline
+    {
+        font-weight: bold;
+    }
